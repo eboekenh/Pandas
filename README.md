@@ -26,6 +26,13 @@ Expects two CSV files:
 python Pandas_operations.py
 ```
 
+## Cheat Sheets
+
+New to pandas? See [`cheat_sheets/`](cheat_sheets/README.md) for a full set
+of beginner-friendly cheat sheets covering everything from DataFrame
+basics to plotting, combining datasets, missing data, and tidy data
+reshaping.
+
 ## License
 
 MIT
